@@ -1,2 +1,2 @@
-Let's trigger the webhook without Slack
+No Slack
 
